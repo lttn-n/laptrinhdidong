@@ -4,7 +4,7 @@ void main(){
   print('Nhập số lượng que kem: '); 
   int sl = int.parse(stdin.readLineSync()!);
 
-  if(sl <= 0){ // ktra sl > 0
+  if(sl <= 0){ // kr
     print('Số lượng que kem phải lớn hơn 0');
     return;
   }
