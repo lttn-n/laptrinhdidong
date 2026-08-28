@@ -1,0 +1,5 @@
+MH01#Lập trình di động#3
+MH02#Cơ sở dữ liệu#3
+MH03#Mạng máy tính#2
+MH04#Hệ điều hành#3
+MH05#Cấu trúc dữ liệu và giải thuật#3
